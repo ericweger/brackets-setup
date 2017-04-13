@@ -1,0 +1,44 @@
+Autoprefixer
+-Mikael Jorhult
+
+Beautify
+-Drew Hamlett
+
+Brackets Git
+-Martin Zagora
+
+Brackets Icons
+-Ivo Gabe de Wolff
+
+Brackets Link File
+-Jose A Martinez
+
+Brackets Sass
+-Jason San Jose
+
+colorHints
+-Konstantin Kobs
+
+Custom Work
+-Avril Alejandro
+
+Emmet
+-Sergey Chikuyonok
+
+HTMLHint
+-Raymond Camden
+
+JS CSS Minifier
+-Andrew Bagshaw
+
+Minimap
+-Senko Anton
+
+Open in Browser
+-Avril Alejandro
+
+Pylinter
+-Leandro Silva
+
+Zurb Foundation 6 Basic Template
+-George Bratsos
